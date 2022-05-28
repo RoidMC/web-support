@@ -1,4 +1,4 @@
-# <img alt="RoidMC-Support" width="30" src="https://raw.githubusercontent.com/RoidMC/rmc-assets/main/logo/logo.jpg" /> RoidMC Support
+# <img alt="RoidMC-Support" width="30" src="https://raw.githubusercontent.com/RoidMC/rmc-assets/main/logo/logo.png" /> RoidMC Support
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://github.com/RoidMC/web-support/blob/main/LICENSE)
 [![Docsify-based](https://img.shields.io/badge/-Docsify_Based-gray?style=flat-square)](https://docsify.js.org)

@@ -1,11 +1,11 @@
 # <img alt="RoidMC-Support" width="30" src="https://raw.githubusercontent.com/RoidMC/rmc-assets/main/logo/logo.png" /> RoidMC Support
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://github.com/RoidMC/web-support/blob/main/LICENSE)
-[![Docsify-based](https://img.shields.io/badge/-Docsify_Based-gray?style=flat-square)](https://docsify.js.org)
+[![Docusaurus-based](https://img.shields.io/badge/-Docusaurus_Based-gray?style=flat-square)](https://docsify.js.org)
 
 ## 💬 摘要
 
-* 本项目基于[Docsify](https://docsify.js.org)开发，使用Github Actions和Github Pages实现自动化部署。
+* 本项目基于[Docusaurus](https://docusaurus.io)开发，使用Github Actions和Github Pages实现自动化部署。
 * 存储库采用[GPL-V3](https://github.com/RoidMC/web-support/blob/main/LICENSE)开源协议。
 
 🎨  数据统计

@@ -16,4 +16,4 @@
 [![Pull-pr](https://img.shields.io/github/issues-pr/RoidMC/web-support?style=flat-square)](https://github.com/RoidMC/web-support/pulls)
 [![Pull-pr-closed](https://img.shields.io/github/issues-pr-closed/RoidMC/web-support?style=flat-square)](https://github.com/RoidMC/web-support/pulls?q=is%3Apr+is%3Aclosed)
 
-2020 - 2022 © [RoidMC Studio](https://www.roidmc.com) 
+2020 - 2022 © [RoidMC Studio](https://www.roidmc.com)
